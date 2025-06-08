@@ -102,8 +102,6 @@ You can find more about their work and connect through:
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+[![License: Custom](https://img.shields.io/badge/license-custom-blue.svg)](LICENSE)
 
 ---
